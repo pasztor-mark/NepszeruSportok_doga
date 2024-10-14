@@ -1,0 +1,39 @@
+body {
+    color: #333333 !important;
+}
+
+header,
+main section,
+footer {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+h1,
+h2 {
+    color: #d4af37 !important;
+}
+
+table {
+    border: 1px solid #d4af37 !important;
+    color: #333333 !important;
+}
+
+tr,
+td,
+th {
+    background-color: rgba(255, 215, 0, 0.2) !important;
+}
+
+.table-primary {
+    background-color: rgba(255, 215, 0, 0.2) !important;
+}
+
+ul.list-group li,
+ol.list-group li {
+    background-color: rgba(255, 215, 0, 0.2) !important;
+    color: #333333 !important;
+}
+
+p {
+    color: #333333 !important;
+}

@@ -1,0 +1,16 @@
+{
+    "kepek": [
+        {
+            "id": 0,
+            "src": "/running.jpeg"
+        },
+        {
+            "id": 1,
+            "src": "/swimming.jpg"
+        },
+        {
+            "id": 2,
+            "src": "/basketball.jpg"
+        }
+    ]
+}
